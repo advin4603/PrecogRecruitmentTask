@@ -69,6 +69,7 @@ csv
     └── keys.tar.gz
 ```
 - Additional Data which was filtered from data in the csv folder and stored in the parquet file format in the folder named [Parquet](Parquet)
+- Download the Parquet Data from [here]()
 ```text
 Parquet
 ├── cases
